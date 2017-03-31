@@ -1,3 +1,1 @@
-The 3rd file added to Deleteme.
-
-A bit more text for this file
+Third file added to Deleteme.
