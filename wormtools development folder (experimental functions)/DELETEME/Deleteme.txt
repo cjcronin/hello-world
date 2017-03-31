@@ -1,3 +1,0 @@
-This file is to be deleted.
-
-It is only a placeholder file within the development folder's sub-folder.
