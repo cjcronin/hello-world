@@ -1,4 +1,6 @@
 Plan to create file on master branch, create restoreTestBranch, make changes, merge changes back to master, 
 delete branch, look at GitHub desktop.
 
+-----> for grins, make another change on master branch!
+
 THEN... Restore branch
