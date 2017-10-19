@@ -5,6 +5,9 @@ Second line
 Third line
 Fourth line
 Fifth line
-This line may conflict -- from 0 to 2 on master -- later 
-Seventh line
 
+I got rid of the conflict!!
+
+Seventh line
+Eighth line
+Ninth line
