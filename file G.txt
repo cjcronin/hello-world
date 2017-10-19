@@ -5,6 +5,7 @@ Second line
 Third line
 Fourth line
 Fifth line
-This line may conflict -- conflictBranch from 1 to 5 -- later 
+This line may conflict -- conflictBranch from 1 to 6 -- later 
 Seventh line
-
+Eighth line
+Ninth line
