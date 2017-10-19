@@ -4,3 +4,7 @@ Should have been SECOND Update to the commitMsgTest file.
 
 Fourth commit?
 Adding 5th commit
+
+-------------------------------
+The stuff above was already merged onto master.  
+This is an additional change on the commitMsgTestBranch.
